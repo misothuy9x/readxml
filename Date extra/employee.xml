@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<peopleList>
+	<people id="1" createAt = "">
+		<id>1</id>
+		<name>Nguyen Van A</name>
+		<age>34</age>
+		<room>VNCERT</room>
+	</people>
+	<people id="2">
+		<id>2</id>
+		<name>Nguyen Van B</name>
+		<age>19</age>
+		<room>VNCERT</room>
+	</people>
+	<people id="3">
+		<id>3</id>
+		<name>Nguyen Van C</name>
+		<age>19</age>
+		<room>VNCERT</room>
+	</people>
+</peopleList>
